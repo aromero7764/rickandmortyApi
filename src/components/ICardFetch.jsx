@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import Loading from './loading';
+import Loading from './Loading';
 import '../assets/css/articles.css'
 
 const ICardFetch = ({url}) => {
