@@ -1,6 +1,6 @@
 import React from 'react';
 import '../assets/css/residents.css'
-import Loading from './loading';
+import Loading from './Loading';
 
 const Residents = ({dataInfo, loading}) => {
 
