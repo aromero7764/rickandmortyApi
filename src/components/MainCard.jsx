@@ -5,7 +5,7 @@ import Search from './Search';
 import useFetch from '../hooks/useFetch';
 import ItemsCard from  './ItemsCard'
 import Pagination from './Pagination';
-import Loading from "./loading";
+import Loading from "./Loading";
 
 const MainCard = () => {
 
