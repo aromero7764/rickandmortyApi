@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/css/itemscard.css'
+import '../assets/css/itemsCard.css'
 import ICardFetch from './ICardFetch';
 import NothinHere from './NothinHere';
 
