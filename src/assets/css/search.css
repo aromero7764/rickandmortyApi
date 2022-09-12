@@ -1,0 +1,36 @@
+.search-container {
+    width: 59vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 24px 3px rgb(13 255 110);
+    margin: 28px auto;
+    border-radius: 32px;
+
+}
+
+.control1{
+    width: 62vw;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+
+.wh{
+    height: 3rem;
+}
+
+.input{
+    border-radius: 15px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.button{
+    border-top-left-radius: 0px;
+border-bottom-left-radius: 0px;
+background-color: blue;
+
+}

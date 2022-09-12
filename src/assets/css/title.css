@@ -1,0 +1,37 @@
+
+.title-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.title {
+    margin-top: -90px;
+    width: 39%;
+    height: 100%;
+}
+
+.color {
+    animation:translate 1s ease infinite;
+    }
+
+    @keyframes translate {
+        0%, 100% {
+            transform:translate(.2px,.2px);
+        }
+        50% {
+            transform:translate(.2px,-0.2px);
+        }
+    }
+
+.color:hover {
+    animation:translate .1s ease infinite;
+    width: 60%;
+}
+
+
+
+
+

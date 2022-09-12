@@ -1,0 +1,37 @@
+h2, p {
+
+    color: white
+}
+
+.residents-main{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+.residents-card {
+    display: flex;
+    background-color: #062226;
+    width: 70%;
+}
+
+.location-name {
+    text-align: center;
+}
+
+
+.residents-card_description{
+    width: 100%;
+    display: flex;
+    margin: 1rem;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.text-information {
+    margin-bottom: 0.5rem
+}
+
+.text-description {
+    margin-bottom: 0.5rem
+}
